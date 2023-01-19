@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\q9age.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\q9age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\q9age.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\q9age.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\q9age.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\bin\Debug\net6.0\q9age.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\bin\Debug\net6.0\q9age.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\bin\Debug\net6.0\q9age.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\bin\Debug\net6.0\q9age.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\bin\Debug\net6.0\q9age.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\q9age.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\refint\q9age.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\q9age.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\q9age.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q2\obj\Debug\net6.0\ref\q9age.dll

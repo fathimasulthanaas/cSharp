@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\bin\Debug\net6.0\q5EvenOdd.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\bin\Debug\net6.0\q5EvenOdd.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\bin\Debug\net6.0\q5EvenOdd.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\bin\Debug\net6.0\q5EvenOdd.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\bin\Debug\net6.0\q5EvenOdd.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\q5EvenOdd.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\q5EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\q5EvenOdd.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\q5EvenOdd.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\q5EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\q5EvenOdd.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\refint\q5EvenOdd.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\q5EvenOdd.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\q5EvenOdd.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q5EvenOdd\obj\Debug\net6.0\ref\q5EvenOdd.dll

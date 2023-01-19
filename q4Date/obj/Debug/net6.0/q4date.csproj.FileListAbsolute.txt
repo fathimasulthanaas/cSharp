@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\bin\Debug\net6.0\q4date.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\bin\Debug\net6.0\q4date.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\bin\Debug\net6.0\q4date.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\bin\Debug\net6.0\q4date.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\bin\Debug\net6.0\q4date.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\q4date.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\q4date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\q4date.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\q4date.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\q4date.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\q4date.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\refint\q4date.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\q4date.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\q4date.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q4date\obj\Debug\net6.0\ref\q4date.dll
