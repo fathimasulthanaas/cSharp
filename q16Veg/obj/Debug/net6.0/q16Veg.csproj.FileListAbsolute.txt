@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\bin\Debug\net6.0\q16Veg.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\bin\Debug\net6.0\q16Veg.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\bin\Debug\net6.0\q16Veg.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\bin\Debug\net6.0\q16Veg.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\bin\Debug\net6.0\q16Veg.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\q16Veg.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\q16Veg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\q16Veg.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\q16Veg.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\q16Veg.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\q16Veg.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\refint\q16Veg.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\q16Veg.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\q16Veg.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q16Veg\obj\Debug\net6.0\ref\q16Veg.dll

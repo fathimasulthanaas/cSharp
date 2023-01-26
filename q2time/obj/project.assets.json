@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\time\\q2time.csproj",
-      "projectName": "q2time",
-      "projectPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\time\\q2time.csproj",
+      "projectUniqueName": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2time\\q2Time.csproj",
+      "projectName": "q2Time",
+      "projectPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2time\\q2Time.csproj",
       "packagesPath": "C:\\Users\\fathima.as\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\time\\obj\\",
+      "outputPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2time\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fathima.as\\AppData\\Roaming\\NuGet\\NuGet.Config",

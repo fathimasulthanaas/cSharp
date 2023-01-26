@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\bin\Debug\net6.0\q15Weight.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\bin\Debug\net6.0\q15Weight.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\bin\Debug\net6.0\q15Weight.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\bin\Debug\net6.0\q15Weight.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\bin\Debug\net6.0\q15Weight.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\q15Weight.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\q15Weight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\q15Weight.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\q15Weight.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\q15Weight.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\q15Weight.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\refint\q15Weight.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\q15Weight.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\q15Weight.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q15Weight\obj\Debug\net6.0\ref\q15Weight.dll

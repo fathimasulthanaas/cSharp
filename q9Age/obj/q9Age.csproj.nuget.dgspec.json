@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2\\q9Age.csproj": {}
+    "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q9Age\\q9Age.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2\\q9Age.csproj": {
+    "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q9Age\\q9Age.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2\\q9Age.csproj",
+        "projectUniqueName": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q9Age\\q9Age.csproj",
         "projectName": "q9Age",
-        "projectPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2\\q9Age.csproj",
+        "projectPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q9Age\\q9Age.csproj",
         "packagesPath": "C:\\Users\\fathima.as\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2\\obj\\",
+        "outputPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q9Age\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fathima.as\\AppData\\Roaming\\NuGet\\NuGet.Config",

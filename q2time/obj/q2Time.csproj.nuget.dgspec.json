@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\time\\q2Time.csproj": {}
+    "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2time\\q2Time.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\time\\q2Time.csproj": {
+    "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2time\\q2Time.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\time\\q2Time.csproj",
+        "projectUniqueName": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2time\\q2Time.csproj",
         "projectName": "q2Time",
-        "projectPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\time\\q2Time.csproj",
+        "projectPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2time\\q2Time.csproj",
         "packagesPath": "C:\\Users\\fathima.as\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\time\\obj\\",
+        "outputPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q2time\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fathima.as\\AppData\\Roaming\\NuGet\\NuGet.Config",

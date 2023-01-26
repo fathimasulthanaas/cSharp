@@ -34,7 +34,7 @@ switch (temp)
         Console.WriteLine("The passenger is youth");
         break;
 
-    case >=30 and < 60:
+    case >= 30 and < 60:
         Console.WriteLine("The passenger is adult");
         break;
 

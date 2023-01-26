@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "q9age/1.0.0": {
+      "q9Age/1.0.0": {
         "runtime": {
-          "q9age.dll": {}
+          "q9Age.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "q9age/1.0.0": {
+    "q9Age/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

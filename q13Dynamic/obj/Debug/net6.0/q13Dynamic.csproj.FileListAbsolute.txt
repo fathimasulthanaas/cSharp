@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\bin\Debug\net6.0\q13Dynamic.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\bin\Debug\net6.0\q13Dynamic.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\bin\Debug\net6.0\q13Dynamic.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\bin\Debug\net6.0\q13Dynamic.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\bin\Debug\net6.0\q13Dynamic.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\q13Dynamic.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\q13Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\q13Dynamic.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\q13Dynamic.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\q13Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\q13Dynamic.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\refint\q13Dynamic.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\q13Dynamic.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\q13Dynamic.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q13Dynamic\obj\Debug\net6.0\ref\q13Dynamic.dll

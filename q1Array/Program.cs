@@ -1,4 +1,4 @@
-﻿ string[] names = new string[5];
+﻿string[] names = new string[5];
 Console.WriteLine("enter the names:");
 for (int i = 0; i < names.Length; i++)
 {

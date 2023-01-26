@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\bin\Debug\net6.0\q10Queue.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\bin\Debug\net6.0\q10Queue.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\bin\Debug\net6.0\q10Queue.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\bin\Debug\net6.0\q10Queue.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\bin\Debug\net6.0\q10Queue.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\q10Queue.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\q10Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\q10Queue.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\q10Queue.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\q10Queue.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\q10Queue.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\refint\q10Queue.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\q10Queue.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\q10Queue.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q10Queue\obj\Debug\net6.0\ref\q10Queue.dll

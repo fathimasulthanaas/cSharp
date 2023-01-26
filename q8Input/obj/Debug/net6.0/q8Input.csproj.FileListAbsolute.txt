@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\bin\Debug\net6.0\q8Input.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\bin\Debug\net6.0\q8Input.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\bin\Debug\net6.0\q8Input.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\bin\Debug\net6.0\q8Input.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\bin\Debug\net6.0\q8Input.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\q8Input.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\q8Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\q8Input.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\q8Input.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\q8Input.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\q8Input.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\refint\q8Input.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\q8Input.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\q8Input.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q8Input\obj\Debug\net6.0\ref\q8Input.dll

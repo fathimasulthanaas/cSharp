@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\Coding\\q1Array.csproj",
+      "projectUniqueName": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q1Array\\q1Array.csproj",
       "projectName": "q1Array",
-      "projectPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\Coding\\q1Array.csproj",
+      "projectPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q1Array\\q1Array.csproj",
       "packagesPath": "C:\\Users\\fathima.as\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\Coding\\obj\\",
+      "outputPath": "C:\\Users\\fathima.as\\source\\repos\\CodingChallenge\\q1Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fathima.as\\AppData\\Roaming\\NuGet\\NuGet.Config",

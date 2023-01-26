@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\bin\Debug\net6.0\q6Path.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\bin\Debug\net6.0\q6Path.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\bin\Debug\net6.0\q6Path.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\bin\Debug\net6.0\q6Path.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\bin\Debug\net6.0\q6Path.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\q6Path.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\q6Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\q6Path.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\q6Path.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\q6Path.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\q6Path.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\refint\q6Path.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\q6Path.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\q6Path.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q6Path\obj\Debug\net6.0\ref\q6Path.dll

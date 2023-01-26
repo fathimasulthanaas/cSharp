@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\bin\Debug\net6.0\q12Merge.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\bin\Debug\net6.0\q12Merge.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\bin\Debug\net6.0\q12Merge.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\bin\Debug\net6.0\q12Merge.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\bin\Debug\net6.0\q12Merge.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\q12Merge.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\q12Merge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\q12Merge.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\q12Merge.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\q12Merge.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\q12Merge.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\refint\q12Merge.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\q12Merge.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\q12Merge.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q12Merge\obj\Debug\net6.0\ref\q12Merge.dll

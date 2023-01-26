@@ -1,0 +1,15 @@
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\bin\Debug\net6.0\q11Alphabet.exe
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\bin\Debug\net6.0\q11Alphabet.deps.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\bin\Debug\net6.0\q11Alphabet.runtimeconfig.json
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\bin\Debug\net6.0\q11Alphabet.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\bin\Debug\net6.0\q11Alphabet.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\q11Alphabet.csproj.AssemblyReference.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\q11Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\q11Alphabet.AssemblyInfoInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\q11Alphabet.AssemblyInfo.cs
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\q11Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\q11Alphabet.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\refint\q11Alphabet.dll
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\q11Alphabet.pdb
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\q11Alphabet.genruntimeconfig.cache
+C:\Users\fathima.as\source\repos\CodingChallenge\q11Alphabet\obj\Debug\net6.0\ref\q11Alphabet.dll
